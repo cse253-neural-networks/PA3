@@ -77,10 +77,6 @@ class BasicCNN(nn.Module):
 
         #TODO: Output layer: what should out_features be?
 
-        # TODO: Return out_features
-        return ____
-
-
     def forward(self, batch):
         """Pass the batch of images through each layer of the network, applying 
         non-linearities after each layer.
