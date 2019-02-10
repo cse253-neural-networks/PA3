@@ -70,7 +70,7 @@ class BasicCNN(nn.Module):
         self.pool = nn.MaxPool2d(kernel_size=__, stride=__)
 
         # Define 2 fully connected layers:
-        #TODO: Use the value you computed in Part 1, Question 4 for fc1's in_features, initialization: xavier
+        #TODO: fc1's in_features value is computed in the same manner as in Part 1, Question 4. initialization: xavier
         self.fc1 = nn.Linear(in_features=__, out_features=128)
         self.fc1_normed = nn.BatchNorm1d(__)
         torch_init.xavier_normal_(_______)
