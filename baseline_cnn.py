@@ -1,7 +1,7 @@
 ################################################################################
 # CSE 253: Programming Assignment 3
 # Winter 2019
-# Code author: Jenny Hamer
+# Code author: Jenny Hamer (+ modifications by Tejash Desai)
 #
 # Filename: baseline_cnn.py
 # 
